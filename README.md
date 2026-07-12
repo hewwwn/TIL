@@ -11,4 +11,4 @@
 | 🦁 LIKELION-NLP | 부트캠프 파이썬, ML, NLP 이론 및 실습 | [이동하기](./likelion-nlp) |
 | 📊 ADsP | 데이터 이해, 데이터 분석 기획, 데이터 분석 기초 | [이동하기](./ADsP) |
 | 💾 SQLD | 데이터 모델링 및 SQL 기본/활용 | [이동하기](./SQLD) |
-| 🗄️ Engineer-Information-Processing | 정보처리기사 필기/실기 요약 | [이동하기](./Engineer-Information-Processing) |
+| 🗄️ EIP | 정보처리기사 필기/실기 요약 | [이동하기](./Engineer-Information-Processing) |
